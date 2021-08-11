@@ -1,9 +1,5 @@
 import sympy as sy
-#from sympy import *
-
-from sympy.solvers.solveset import linsolve
-from sympy.core.symbol import symbols
-from sympy.solvers.solveset import nonlinsolve
+from sympy import *
 
 
 
